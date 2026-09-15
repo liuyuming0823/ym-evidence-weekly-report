@@ -1,6 +1,6 @@
 ---
-name: evidence-weekly-report
-slug: evidence-weekly-report
+name: ym-evidence-weekly-report
+slug: ym-evidence-weekly-report
 display_name: 周报证据整理
 display_name_en: Evidence Weekly Report
 displayName: 周报证据整理
@@ -22,7 +22,7 @@ trigger:
 agent_created: true
 ---
 
-# 周报证据整理 (evidence-weekly-report)
+# 周报证据整理 (ym-evidence-weekly-report)
 
 把零散工作记录整理成周报，核心是**可追溯**而不是「写得好听」。每条成果都标出它来自哪条记录，计划不会被写成已完成，没有证据的内容单独列出来让你确认。
 
